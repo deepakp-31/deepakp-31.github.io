@@ -6,7 +6,8 @@
 **LinkedIn**: [www.linkedin.com/in/deepakpmenon](https://www.linkedin.com/in/deepakpmenon)  
 
 ## Summary
-Robotics and automation engineer with over 3 years of experience in developing innovative solutions and driving team success. Proficient in robotics, image processing, AI, programming, and interdisciplinary skills. Committed to exceeding expectations and consistent growth.
+Robotics and automation engineer with nearly 4 years of experience in developing innovative R&D solutions and driving team success. Proficient in robotics, image processing, AI, programming, and project management. Committed to exceeding expectations, fostering consistent growth in collaborative environments, and staying up-
+to-date with the state-of-the-art in robotics and automation.
 
 ## Technical Skills
 - **Robotics**: Kinematics & Dynamics, SLAM, Path-Planning, Navigation, Perception
@@ -21,9 +22,12 @@ Robotics and automation engineer with over 3 years of experience in developing i
 - **B.Tech**, Electronics and Communication Engineering | Palakkad
 
 ## Work Experience
-
-**Robotics Engineer @ Anvi** (July 2024 - Present)  
-- Researching on Isaac ROS and evaluating pathplanner for larger workspace.
+**Founding Robotics Engineer @ VyomOS** (October 2024 - Present)  
+- Provisioned Arducopeter with Jetson to communicate and control the drone.
+- Worked on camera and Jetson to get 3D depth calculation.
+  
+**Robotics Engineer @ Anvi** (July 2024 - October 2024)  
+- Worked on Isaac ROS and evaluated pathplanner for the company's surveillance robot, in larger workspace.
 
 **Robotics Engineer @ Bosch Global Software Technologies Private Limited** (Feb 2022 - July 2024)  
 - Explored Moveit for motion planning, utilizing researched packages for optimal control solutions.
