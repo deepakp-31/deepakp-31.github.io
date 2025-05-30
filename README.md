@@ -6,55 +6,69 @@
 **LinkedIn**: [www.linkedin.com/in/deepakpmenon](https://www.linkedin.com/in/deepakpmenon)  
 
 ## Summary
-Robotics and automation engineer with nearly 4 years of experience in developing innovative R&D solutions and driving team success. Proficient in robotics, image processing, AI, programming, and project management. Committed to exceeding expectations, fostering consistent growth in collaborative environments, and staying up-
-to-date with the state-of-the-art in robotics and automation.
+Robotics and automation engineer with 4+ years of experience in autonomous systems, ROS/ROS2, image processing, sensor fusion, and drone technology. Proven ability to design and implement real-time robotic solutions using ROS2, Python, and embedded systems. Adept in R&D, cloud-based control systems, and end-to-end project execution.
+
+---
 
 ## Technical Skills
-- **Robotics**: Kinematics & Dynamics, SLAM, Path-Planning, Navigation, Perception
-- **ROS/ROS2**: Services, Actions, Path-Planners (A*, RRT, RRT*, custom planners), Movebase, Moveit, Library
-- **Programming Languages**: C/C++, Python, URDF, Shell Scripting
-- **Electronics & Control**: Strong background in control algorithms, image processing, and deep learning
-- **Robotics Hardware**: Sensors (IMU, camera, lidar), motors (servo, DC motors), Turtlebot, Open Manipulator, Open-Source hardware, National Instruments
-- **Development Tools**: Git, AWS, Linux, Enterprise Architecture
+
+- **Robotics**: Kinematics, Dynamics, SLAM, Path Planning, Navigation, Perception, Control (PID, Fuzzy)
+- **Frameworks**: ROS, ROS2 (Services, Actions, MoveIt, MoveBase, Custom Planners – A*, RRT, RRT*)
+- **Programming**: Python, C/C++, Shell Scripting, URDF
+- **Hardware & Electronics**: Sensors (IMU, Lidar, Camera), Actuators, Turtlebot, Cube Orange, Pixhawk, Jetson, Open Manipulator
+- **Tools**: Git, AWS, Linux, MAVLink, Enterprise Architecture
+- **Project Management**: R&D management, stakeholder communication, proposal development
+
+---
+
+## Experience
+
+### Founding Robotics Engineer – VyomOS, Bangalore  
+**October 2024 – Present**
+- Designed autonomous drone systems using Cube Orange and Pixhawk flight controllers.
+- Developed dynamic ROS2 nodes in Python for real-time monitoring, image processing, and navigation.
+- Integrated Jetson Orin Nano as a companion computer with MAVLink and cloud infrastructure for remote mission control and telemetry.
+
+### Robotics Engineer – Anvi, Hyderabad  
+**July 2024 – October 2024**
+- Researched Isaac ROS and evaluated path planners for surveillance and space robotics.
+
+### Robotics Engineer – Bosch Global Software Technologies, Bangalore  
+**February 2022 – July 2024**
+- Explored MoveIt for motion planning and integrated 3D navigation for drones.
+- Developed stable indoor drone prototypes and constructed simulation models for bulldozers.
+- Built robust architectures to support real-world deployments in multi-scenario environments.
+- Achieved 100% path generation success for autonomous bulldozer deployment in Japan.
+
+### System Administrator – Nexuba, Bangalore  
+**May 2021 – February 2022**
+- Managed EC2 instances and automated SQL database maintenance tasks on AWS.
+
+### Internship – IoT & Robotics, Serpro Consulting, MRPL & CSD – NITK, Mangalore  
+**May 2019 – June 2020**
+
+---
+
+## Academic Projects
+
+### Autonomous Navigation of Mobile Robots
+- Developed autonomous navigation for 3 robots in Gazebo using ROS with a 100% success rate.
+
+### Quadruped Robot
+- Designed and developed a 4-legged quadruped robot prototype using open-source tools and components.
+
+---
 
 ## Education
-- **M.Tech**, Robotics & Mechatronics | National Institute of Technology Karnataka (June 2020)
-- **B.Tech**, Electronics and Communication Engineering | Palakkad
 
-## Work Experience
-**Founding Robotics Engineer @ VyomOS** (October 2024 - Present)  
-- Provisioned Arducopeter with Jetson to communicate and control the drone.
-- Worked on camera and Jetson to get 3D depth calculation.
-  
-**Robotics Engineer @ Anvi** (July 2024 - October 2024)  
-- Worked on Isaac ROS and evaluated pathplanner for the company's surveillance robot, in larger workspace.
+- **M.Tech** – Mechatronics Engineering, *NITK Surathkal*  
+- **B.Tech** – Electronics and Communication Engineering, *NSS College of Engineering, Palakkad*
 
-**Robotics Engineer @ Bosch Global Software Technologies Private Limited** (Feb 2022 - July 2024)  
-- Explored Moveit for motion planning, utilizing researched packages for optimal control solutions.
-- Evaluated and integrated 3D navigation packages for drones and tested in Gazebo simulation.
-- Developed stable indoor drone prototypes, achieving flight stability at maximum payload.
-- Crafted a robust software architecture for smooth operation in 4 complex scenarios using Enterprise Architecture.
-- Constructed Gazebo simulation models of bulldozer & environment similar to the real workspace.
-- Facilitated testing and validation in the simulated world for 70-80% of remote project engineers.
-- Achieved 100% success rate in path generation to enable remote automation of bulldozer in Japan.
-- Rigorously tested and validated in existing simulation environments & finally on actual bulldozer.
-- Maintained precise control to restrict boundary overshooting to within 45% of the bulldozer’s dimensions.
-- Leveraged open-source robotics platforms from Clearpath Robotics & built ground robots.
-- Collaborated with a team to construct a mobile service robot prototype equipped with a robotic arm, successfully executing pick and place operations.
-
-**System Administrator @ Nexuba** (May 2021 - Feb 2022)  
-- Performed data management for EC2 servers and automated maintenance tasks of SQL databases on AWS.
-
-**Internship: IoT & Robotics @ Serpro Consulting, MRPL & CSD - NITK** (May 2019 - June 2020)
-
-## Projects
-
-**Autonomous Navigation of Multiple Mobile Robots**  
-- Implemented autonomous navigation for 3 robots in Gazebo using SMACH with a 100% success rate. Developed a partial mobile robot prototype interfaced with ROS.
-
-**Quadruped Robot**  
-- Designed and developed a quadruped robot (4-legged) prototype using open-source resources.
+---
 
 ## Certifications & Achievements
-- Deep Learning Specialization courses offered by deeplearning.ai from Coursera.
-- Winner of FitforFuture Robot competitions & conducted Hackathons on visual odometry at Bosch.
+
+- Deep Learning Specialization – deeplearning.ai (Coursera)
+- Winner – FitForFuture Robotics Competitions at Bosch
+- Conducted ROS-based hackathons on visual odometry
+- Founding Engineer – Robotics Startup (VyomOS)
