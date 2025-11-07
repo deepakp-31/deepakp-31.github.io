@@ -27,6 +27,7 @@ Robotics and automation engineer with 4+ years of experience in autonomous syste
 **October 2024 – Present**
 - Developed and optimized autonomous navigation, object tracking, flatspot detection, and precision landing algorithms to enhance terrain following and situational awareness.
 - Built and maintained scalable ROS2 nodes in Python for real-time image processing, navigation, telemetry and logs using MAVLink and MQTT communication protocols.
+- Enabled real-time connectivity between the mobile front-end app (ground control system) and drone hardware, ensuring seamless data streaming and secure communication.
 - Integrated Jetson Orin Nano and Pixhawk with AWS-based cloud infrastructure, enabling remote mission control and remote telemetry management.
 
 
